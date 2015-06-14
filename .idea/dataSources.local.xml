@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="Azure SQL" uuid="xxxx">
+      <user-name>xxxx</user-name>
+      <user-password>xxxx</user-password>
+    </data-source>
+  </component>
+</project>

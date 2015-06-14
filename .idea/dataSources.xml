@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="2576866334">
+    <data-source source="LOCAL" name="Azure SQL" uuid="47122540-fe3f-4989-8ed8-39cc90799002">
+      <driver-ref>sqlserver.ms</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.microsoft.sqlserver.jdbc.SQLServerDriver</jdbc-driver>
+      <jdbc-url>jdbc:sqlserver://b4m15im6ok.database.windows.net:1433;databaseName=crawler</jdbc-url>
+      <libraries />
+    </data-source>
+  </component>
+</project>
